@@ -11,6 +11,7 @@
     <sql id="Base_Column_List">
         id,name,age,sex
     </sql>
+    <!--this-->
     <select id="selectPage" resultMap="usermap">
         select
         <include refid="Base_Column_List" />
