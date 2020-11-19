@@ -15,6 +15,6 @@
     <select id="selectPage" resultMap="usermap">
         select
         <include refid="Base_Column_List" />
-        from sys_user
+        from sys_usern
     </select>
 </mapper>
