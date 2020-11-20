@@ -28,7 +28,7 @@ mybatis:
     mapper-locations: classpath:/mapper/*.xml
 
 
-#lOG
+#lOGc
 logging:
   level:
     com.test.tools.springbootuntil: DEBUG
